@@ -1,0 +1,5 @@
+/data
+.dpd
+npm-debug.log
+node_modules
+.env

@@ -1,0 +1,24 @@
+{
+  "name": "ninja-phonebook-api",
+  "version": "0.0.2",
+  "description": "API for Ninja Phonebook",
+  "keywords": [
+    "Ninja Phonebook",
+    "phonebook",
+    "angular",
+    "api"
+  ],
+  "homepage": "",
+  "author": "Ilija Tešić <ilija.tesic@gmail.com>",
+  "contributors": [],
+  "dependencies": {
+    "deployd": ">= 0"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "license": "MIT"
+}
