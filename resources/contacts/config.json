@@ -80,6 +80,14 @@
 			"required": false,
 			"id": "skype",
 			"order": 9
+		},
+		"userId": {
+			"name": "userId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userId",
+			"order": 10
 		}
 	}
 }
